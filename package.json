@@ -5,6 +5,15 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hkwaller/amalie-engine.git"
+  },
+  "homepage": "https://github.com/hkwaller/amalie-engine#readme",
+  "bugs": {
+    "url": "https://github.com/hkwaller/amalie-engine/issues"
+  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -37,7 +46,7 @@
     "hooks",
     "multiplayer"
   ],
-  "author": "",
+  "author": "hkwaller",
   "license": "MIT",
   "peerDependencies": {
     "@supabase/supabase-js": "^2.0.0",

@@ -13,6 +13,7 @@ A TypeScript quiz game engine with Supabase Realtime integration, React hooks fo
 - 📱 **QR Code Component** - Easy player joining with QR codes
 - 🔄 **Reconnection Support** - Player identity persistence and automatic reconnection
 - 📦 **Lightweight** - Minimal dependencies, tree-shakeable exports
+- 🤖 **AI-Ready** - Includes [AI_INSTRUCTIONS.md](./AI_INSTRUCTIONS.md) for AI-assisted development
 
 ## Installation
 
