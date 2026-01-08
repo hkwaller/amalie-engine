@@ -1,6 +1,6 @@
 {
   "name": "amalie-engine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A TypeScript quiz game engine with Supabase Realtime integration, React hooks, configurable scoring, and power-up support",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
